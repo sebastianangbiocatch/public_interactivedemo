@@ -1,0 +1,7 @@
+production links using githack
+
+MULE
+https://rawcdn.githack.com/sebastianangbiocatch/public_interactivedemo/b373824fba32140c19f6a413c595b088f7a62c2c/BioCatch_Mule_Catcher_v4_obfuscated.html
+
+SCAM
+https://rawcdn.githack.com/sebastianangbiocatch/public_interactivedemo/b373824fba32140c19f6a413c595b088f7a62c2c/BioCatch_TheDigitalArrest_obfuscated.html
